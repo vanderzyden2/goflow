@@ -10,7 +10,7 @@
 <mark> 2. Which fields are mandatory?</mark>
 
 
-#Table of Contents:
+##Table of Contents
 
 * [Products](#Products)
 * [Adjustments](#Adjustments)
@@ -18,7 +18,7 @@
 * [Moves](#Moves)
 
 
-# <a id="Products">Products</a>
+## <a id="Products">Products</a>
 
 There are three types of products:
 
@@ -26,7 +26,7 @@ There are three types of products:
 * Group Products
 * Kit Products
 
-##Add a Standard Product
+###Add a Standard Product
 
 Follow these steps to create a new product:
 
@@ -62,7 +62,7 @@ Follow these steps to create a new product:
 The new product will appear in the Products listing. You can search for this product using the Search field at the top of the page. 
 
 
-##Update a Standard Product
+###Update a Standard Product
 
 Search for the product....
 
@@ -73,28 +73,29 @@ Make changes....
 Click the **Save** button to commit your changes.
 
 
-##Add a Group Product
+###Add a Group Product
 
 
 
-##Update a Group Product
+###Update a Group Product
 
 
 
-##Add a Kit Product
+###Add a Kit Product
 
 
 
-##Update a Kit Product
+###Update a Kit Product
 
 
-# <a id="Adjustments">Adjustments</a>
+
+## <a id="Adjustments">Adjustments</a>
 
 
-# <a id="Productions">Productions</a>
+## <a id="Productions">Productions</a>
 
 
-# <a id="Moves">Moves</a>
+## <a id="Moves">Moves</a>
 
 
 
