@@ -1,4 +1,4 @@
-#goflow User Guide
+# vgoflow User Guide
 
 
 
@@ -10,7 +10,7 @@
 <mark> 2. Which fields are mandatory?</mark>
 
 
-##Table of Contents
+## Table of Contents
 
 * [Products](#Products)
 * [Adjustments](#Adjustments)
