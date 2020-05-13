@@ -20,11 +20,11 @@
 <p>In the menu, click <strong>Inventory &gt; Products</strong>.</p>
 </li>
 <li>
-<p>Click the <strong>New Product</strong> button.<br>
+<p>Click the <strong>New Product</strong> button. <br><br>
 <img src="https://i.ibb.co/Fk1dmdK/products-1.png%22" alt="New Product"></p>
 </li>
 <li>
-<p>In the popup window, leave the drop-down choice as <strong>Standard Product</strong> and click the <strong>Next</strong> button.<br>
+<p>In the popup window, leave the drop-down choice as <strong>Standard Product</strong> and click the <strong>Next</strong> button. <br><br>
 <img src="https://i.ibb.co/6m25Y6T/products-2.png" alt="New Product"></p>
 </li>
 <li>
@@ -51,7 +51,7 @@
 <img src="https://i.ibb.co/N26z5Gz/products-4.png" alt="New Product"></p>
 </li>
 <li>
-<p>Complete the <strong>Vendors</strong> section. Click <strong>Add Vendor</strong>, and then enter a <strong>Name</strong>, <strong>Vendor Item Number</strong>, <strong>Quantity</strong>, <strong>Cost</strong>, and <strong>Inventory Expiration Date</strong> .<br>
+<p>Complete the <strong>Vendors</strong> section. Click <strong>Add Vendor</strong>, and then enter a <strong>Name</strong>, <strong>Vendor Item Number</strong>, <strong>Quantity</strong>, <strong>Cost</strong>, and <strong>Inventory Expiration Date</strong> .  <br><br>
 <img src="https://i.ibb.co/12KfzLb/products-5.png" alt="New Product"></p>
 </li>
 <li>
@@ -82,7 +82,7 @@
 <p>In the menu, click <strong>Inventory &gt; Products</strong>.</p>
 </li>
 <li>
-<p>Click the <strong>New Product</strong> button.<br>
+<p>Click the <strong>New Product</strong> button. <br><br>
 <img src="https://i.ibb.co/Fk1dmdK/products-1.png%22" alt="New Product"></p>
 </li>
 <li>
