@@ -1,8 +1,4 @@
 <h1 id="goflow-user-guide">goflow User Guide</h1>
-<mark>
-**QUESTIONS**:
-</mark><p><mark> 1. Explain each and every field?</mark></p>
-<p><mark> 2. Which fields are mandatory?</mark></p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#Products">Products</a></li>
